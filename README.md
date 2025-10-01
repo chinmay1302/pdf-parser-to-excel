@@ -11,3 +11,6 @@ This Python script extracts useful metadata (file path, title, number of pages) 
 1. Install dependencies:
    ```bash
    pip install PyPDF2 openpyxl
+
+2. Make 2 folders pdf_input and pdf_output in the documents folder.
+3. Add the input files in .zip format in the pdf_input folder and run the script.
